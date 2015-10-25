@@ -3,9 +3,9 @@ import javax.swing.DefaultComboBoxModel;
 import javax.swing.JTextField;
 public class credit extends javax.swing.JFrame {
 	public credit() {
-        Component();
+        Components();
     }                          
-    private void Component() {
+    private void Components() {
         jPanel1 = new javax.swing.JPanel();
         creditsum = new javax.swing.JTextField();
         creditperiod = new javax.swing.JComboBox();
