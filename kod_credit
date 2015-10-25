@@ -40,11 +40,11 @@ public class credit extends javax.swing.JFrame {
 
         jLabel1.setText("Сумма кредита:");
 
-        jLabel2.setText("Срок кредита:");
+        jLabel2.setText("Период кредитования:");
 
         jLabel3.setText("мес.");
 
-        jLabel4.setText("Ставка:");
+        jLabel4.setText("Процентная ставка:");
 
         jLabel6.setText("%");
 
@@ -119,7 +119,7 @@ public class credit extends javax.swing.JFrame {
         totalsum.setEditable(false);
         totalsum.setFocusable(false);
 
-        jLabel7.setText("Сумма кредита:");
+        jLabel7.setText("Сумма выплаты:");
  
         clearresult.setText("Очистить результат");
        
